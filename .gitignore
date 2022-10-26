@@ -1,0 +1,4 @@
+.vscode
+
+stm32f411-blackpill/.deps
+stm32f411-blackpill/build
